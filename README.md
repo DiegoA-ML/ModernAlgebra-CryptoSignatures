@@ -1,7 +1,7 @@
 # ModernAlgebra-CryptoSignatures
 
-# Reto: Uso de Álgebras Modernas para Seguridad y Criptografía  
+# Project: Using Modern Algebras for Security and Cryptography
 
 ## Descripción  
 
-Este proyecto tiene como objetivo analizar y documentar el uso de algoritmos criptográficos para firmas digitales y/o electrónicas en un entorno real. Como primer avance, se llevará a cabo una revisión del estado del arte, considerando soluciones y estándares existentes, así como bibliotecas y recursos disponibles para la implementación de esquemas de clave pública.  
+This project aims to analyze and document the use of cryptographic algorithms for digital and/or electronic signatures in a real environment. As a first step, a review of the state of the art will be carried out, considering existing solutions and standards, as well as libraries and resources available for the implementation of public key schemes.
