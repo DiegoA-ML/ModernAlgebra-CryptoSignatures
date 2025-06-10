@@ -7,10 +7,10 @@ nest_asyncio.apply()
 st.set_page_config(page_title="Login + Firma Digital", layout="centered")
 
 # --- Mostrar banner centrado ---
-st.image("/Users/mauriciovg/Crypto/banner.png", use_container_width=True)
+# st.image("/Users/mauriciovg/Crypto/banner.png", use_container_width=True)
 
 # --- Mostrar logo centrado debajo ---
-#st.image("/Users/mauriciovg/Crypto/logo.png", width=400)  # Ajusta el tamaño si quieres
+st.image("/Users/mauriciovg/Crypto/logo.png")  # Ajusta el tamaño si quieres
 
 # --- Estado inicial ---
 if "login_exitoso" not in st.session_state:
